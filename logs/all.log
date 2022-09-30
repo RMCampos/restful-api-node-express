@@ -1,0 +1,162 @@
+22Y-09-29 10:47:27:4727 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 10:50:04:504 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 10:50:04:504 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 10:50:14:5014 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 10:50:14:5014 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 10:51:01:511 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 10:51:01:511 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 10:51:42:5142 - [31merror[39m: [31mUnable to connect to the database![39m
+22Y-09-29 13:11:24:1124 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:11:24:1124 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:17:30:1730 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:17:30:1730 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:17:56:1756 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:17:57:1757 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:18:00:180 - [35mhttp[39m: [35mGET /api/test 200 10 - 1.746 ms[39m
+[35m[39m
+22Y-09-29 13:24:48:2448 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:24:48:2448 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:25:00:250 - [35mhttp[39m: [35mPOST /api/moovie 404 150 - 2.447 ms[39m
+[35m[39m
+22Y-09-29 13:25:20:2520 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:25:20:2520 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:25:21:2521 - [35mhttp[39m: [35mPOST /api/moovie 200 19 - 2.178 ms[39m
+[35m[39m
+22Y-09-29 13:26:53:2653 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 13:26:53:2653 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 13:28:04:284 - [35mhttp[39m: [35mPOST /api/moovie 201 147 - 52.036 ms[39m
+[35m[39m
+22Y-09-29 14:44:00:440 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:44:00:440 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:44:04:444 - [35mhttp[39m: [35mPOST /api/moovie 201 147 - 48.742 ms[39m
+[35m[39m
+22Y-09-29 14:44:18:4418 - [35mhttp[39m: [35mPOST /api/moovie 201 151 - 27.173 ms[39m
+[35m[39m
+22Y-09-29 14:46:55:4655 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:46:55:4655 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:47:28:4728 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:47:28:4728 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:47:33:4733 - [35mhttp[39m: [35mPOST /api/moovie 422 67 - 3.926 ms[39m
+[35m[39m
+22Y-09-29 14:48:28:4828 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:48:28:4828 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:48:34:4834 - [35mhttp[39m: [35mPOST /api/moovie 422 66 - 4.708 ms[39m
+[35m[39m
+22Y-09-29 14:49:26:4926 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:49:26:4926 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:49:36:4936 - [35mhttp[39m: [35mPOST /api/moovie 422 49 - 4.573 ms[39m
+[35m[39m
+22Y-09-29 14:49:57:4957 - [35mhttp[39m: [35mPOST /api/moovie 201 161 - 40.819 ms[39m
+[35m[39m
+22Y-09-29 14:51:09:519 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:51:09:519 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:51:19:5119 - [35mhttp[39m: [35mPOST /api/moovie 422 62 - 7.365 ms[39m
+[35m[39m
+22Y-09-29 14:51:43:5143 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:51:43:5143 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:51:45:5145 - [35mhttp[39m: [35mPOST /api/moovie 422 110 - 5.750 ms[39m
+[35m[39m
+22Y-09-29 14:51:51:5151 - [35mhttp[39m: [35mPOST /api/moovie 422 60 - 1.983 ms[39m
+[35m[39m
+22Y-09-29 14:52:28:5228 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:52:28:5228 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:52:32:5232 - [35mhttp[39m: [35mPOST /api/moovie 422 102 - 6.459 ms[39m
+[35m[39m
+22Y-09-29 14:53:14:5314 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:53:14:5314 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:53:22:5322 - [35mhttp[39m: [35mPOST /api/moovie 422 141 - 6.350 ms[39m
+[35m[39m
+22Y-09-29 14:56:12:5612 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:56:12:5612 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:56:36:5636 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 14:56:36:5636 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 14:57:36:5736 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6335c79495b720e1fb1993099" (type string) at path "_id" for model "Movie"[39m
+22Y-09-29 14:58:05:585 - [35mhttp[39m: [35mGET /api/moovie/6335c79495b720e1fb1993099 - - - - ms[39m
+[35m[39m
+22Y-09-29 14:59:14:5914 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "6335c79495b720e1fb1993099" (type string) at path "_id" for model "Movie"[39m
+22Y-09-29 14:59:23:5923 - [35mhttp[39m: [35mGET /api/moovie/6335c79495b720e1fb1993099 - - - - ms[39m
+[35m[39m
+22Y-09-29 15:01:22:122 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 15:01:22:122 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 15:01:24:124 - [35mhttp[39m: [35mGET /api/moovie/6335c79495b720e1fb1993099 404 28 - 1.951 ms[39m
+[35m[39m
+22Y-09-29 15:01:28:128 - [35mhttp[39m: [35mGET /api/moovie/6335c79495b720e1fb199309 200 147 - 31.273 ms[39m
+[35m[39m
+22Y-09-29 16:55:08:558 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 16:55:08:558 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 16:56:11:5611 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 16:56:11:5611 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 16:56:40:5640 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 16:56:40:5640 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 16:57:08:578 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-29 16:57:08:578 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-29 16:57:32:5732 - [35mhttp[39m: [35mGET /api/moovie 200 611 - 58.599 ms[39m
+[35m[39m
+22Y-09-30 08:15:28:1528 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:15:28:1528 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:15:30:1530 - [35mhttp[39m: [35mGET /api/moovie 200 611 - 32.772 ms[39m
+[35m[39m
+22Y-09-30 08:17:07:177 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:17:07:177 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:17:25:1725 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:17:25:1725 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:17:34:1734 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:17:34:1734 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:17:36:1736 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:17:36:1736 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:17:54:1754 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:17:54:1754 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:18:19:1819 - [35mhttp[39m: [35mDELETE /api/6335dac5323b81b5c4c8126b 404 170 - 2.157 ms[39m
+[35m[39m
+22Y-09-30 08:18:29:1829 - [35mhttp[39m: [35mDELETE /api/moovie/6335dac5323b81b5c4c8126b 200 161 - 31.904 ms[39m
+[35m[39m
+22Y-09-30 08:18:31:1831 - [35mhttp[39m: [35mDELETE /api/moovie/6335dac5323b81b5c4c8126ba 404 28 - 0.591 ms[39m
+[35m[39m
+22Y-09-30 08:18:51:1851 - [35mhttp[39m: [35mGET /api/moovie 200 611 - 31.794 ms[39m
+[35m[39m
+22Y-09-30 08:20:18:2018 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:20:18:2018 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:20:23:2023 - [35mhttp[39m: [35mDELETE /api/moovie/6335dac5323b81b5c4c8126b 200 24 - 122.046 ms[39m
+[35m[39m
+22Y-09-30 08:20:28:2028 - [35mhttp[39m: [35mGET /api/moovie 200 449 - 26.778 ms[39m
+[35m[39m
+22Y-09-30 08:20:37:2037 - [35mhttp[39m: [35mDELETE /api/moovie/6335d97235796b550516cc12 200 24 - 52.889 ms[39m
+[35m[39m
+22Y-09-30 08:20:39:2039 - [35mhttp[39m: [35mGET /api/moovie 200 297 - 26.635 ms[39m
+[35m[39m
+22Y-09-30 08:20:47:2047 - [35mhttp[39m: [35mDELETE /api/moovie/6335d96435796b550516cc10 200 24 - 53.582 ms[39m
+[35m[39m
+22Y-09-30 08:20:49:2049 - [35mhttp[39m: [35mGET /api/moovie 200 149 - 20.874 ms[39m
+[35m[39m
+22Y-09-30 08:22:18:2218 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:22:18:2218 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:22:29:2229 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:22:29:2229 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:22:38:2238 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:22:38:2238 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:23:23:2323 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:23:23:2323 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:23:55:2355 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:23:55:2355 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:24:41:2441 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:24:41:2441 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:24:50:2450 - [35mhttp[39m: [35mPATCH /api/moovie/6335d96435796b550516cc10 404 29 - 27.105 ms[39m
+[35m[39m
+22Y-09-30 08:24:58:2458 - [35mhttp[39m: [35mPATCH /api/moovie/6335c79495b720e1fb199309 201 147 - 25.985 ms[39m
+[35m[39m
+22Y-09-30 08:26:27:2627 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:26:27:2627 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:27:15:2715 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:27:15:2715 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:27:59:2759 - [35mhttp[39m: [35mPATCH /api/moovie/6335c79495b720e1fb199309 201 38 - 61.866 ms[39m
+[35m[39m
+22Y-09-30 08:28:04:284 - [35mhttp[39m: [35mGET /api/moovie 200 175 - 21.580 ms[39m
+[35m[39m
+22Y-09-30 08:28:41:2841 - [35mhttp[39m: [35mPATCH /api/moovie/6335c79495b720e1fb199309 201 41 - 48.993 ms[39m
+[35m[39m
+22Y-09-30 08:28:45:2845 - [35mhttp[39m: [35mGET /api/moovie 200 215 - 20.681 ms[39m
+[35m[39m
+22Y-09-30 08:29:31:2931 - [32minfo[39m: [32mDatabase connected![39m
+22Y-09-30 08:29:31:2931 - [32minfo[39m: [32mApp running at port 3000[39m
+22Y-09-30 08:29:36:2936 - [35mhttp[39m: [35mPATCH /api/moovie/6335c79495b720e1fb199309 422 239 - 5.859 ms[39m
+[35m[39m
